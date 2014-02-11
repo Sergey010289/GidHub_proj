@@ -1,2 +1,2 @@
 __author__ = 'sergey'
-print 'asd'
+print 'this is the first project'
