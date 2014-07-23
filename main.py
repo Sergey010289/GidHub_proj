@@ -1,2 +1,4 @@
 __author__ = 'sergey'
-print 'this is the first project'
+
+if __name__ == '__main__':
+    print 'this is the first project'
